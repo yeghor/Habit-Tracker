@@ -3,6 +3,4 @@ __pychache__/
 *.pyc
 *.log
 .vscode/
-db.sqlite3
-*.db
 pyvenv.cfg
