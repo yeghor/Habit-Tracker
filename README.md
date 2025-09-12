@@ -51,7 +51,12 @@ Clone the repository:
 git clone https://github.com/yeghor/Fullstack-Habit-Tracker-React-fastAPI.git
 ```
 
-Clone the repository:
+Move to the applization directory:
+```bash
+cd Fullstack-Habit-Tracker-React-fastAPI
+```
+
+Build and start your docket compose:
 ```bash
 docker compose up
 ```
