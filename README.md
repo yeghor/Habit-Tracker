@@ -1,21 +1,8 @@
 # Habit Tracker
 
-## Stack
 
-### Backend (Python)
-- FastAPI
-- SQLAlchemy
-- Uvicorn
-- JWT Auth
-- Bcrypt
+https://github.com/user-attachments/assets/e68d1d01-4df0-4f20-a24a-acf480ca7bf6
 
-### Frontend (JavaScript)
-- React
-- TailwindCSS
-
----
-
-## Description
 
 A full-stack habit tracking app with user authentication and XP/level progression.
 
@@ -32,6 +19,21 @@ A full-stack habit tracking app with user authentication and XP/level progressio
 - API-side **rate limiting**
 - Error handling (backend/server failures, bad requests)
 - Color theme persistence (stored in localStorage)
+
+---
+
+## Stack
+
+### Backend (Python)
+- FastAPI
+- SQLAlchemy
+- Uvicorn
+- JWT Auth
+- Bcrypt
+
+### Frontend (JavaScript)
+- React
+- TailwindCSS
 
 ---
 ## Issues
